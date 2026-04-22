@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://experience.adobe.com/#/@dtpartnersandbox/aem/editor/canvas/localhost:3000/"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/rahul-chawla-akqa/eds-aem/main"
     type: "markup"
     suffix: ".html"
